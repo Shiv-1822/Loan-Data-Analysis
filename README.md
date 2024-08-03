@@ -3,6 +3,7 @@
 # All the analysis
 
 NAME_CONTRACT_TYPE-
+
     most of the customers have taken cash loan
     customers who have taken cash loans are less likely to default
 
